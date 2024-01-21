@@ -24,6 +24,7 @@ h1 {
     letter-spacing: 2px;
     color: greenyellow;
 }
+
 /* Header */
 header {
     background-color: red;
@@ -39,12 +40,27 @@ header a {
     color: inherit;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid yellow;
+}
+
 /* Main content */
 main {
     background-color: black;
     /* Make main element take any surplus space to push footer down */
     flex: 1 0 auto;
 }
+
 
 /* Footer */
 footer {
