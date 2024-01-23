@@ -18,13 +18,6 @@ body {
     font-family: "Lato", sans-serif;
 }
 
-h1 {
-    font-family: "oswald", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: greenyellow;
-}
-
 /* Header */
 header {
     background-color: red;
@@ -43,6 +36,13 @@ header a {
     color: inherit;
 }
 
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -54,7 +54,7 @@ header a {
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #3a3a3a
 }
 
 /* Nav bar styles with drop down toggle */
@@ -70,9 +70,10 @@ nav {
 }
 
 /* Nav-toggle */
-/* #nav-toggle:checked-nav {
+#nav-toggle:checked~nav {
     display: block;
-} 
+}
+
 /* Nav-toggle*/
 #nav-toggle:checked+label+nav {
     display: block;
@@ -82,7 +83,7 @@ nav {
     display: none;
 }
 
-.nav-toggle.label {
+.nav-toggle-label {
     font-size: 5rem;
 }
 
@@ -137,5 +138,12 @@ footer {
     main {
         /* Push main content down */
         margin-top: 79px;
+    }
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
     }
 }
