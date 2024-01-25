@@ -95,6 +95,15 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
+/*-- Coat of arm section */
+#coat-of-arm {
+    height: 1300px;
+    width: 100%;
+    background: url("../images/canva-coat-of-arm.png") no-repeat center center/cover;
+
+}
+
+
 
 
 /* Footer */
