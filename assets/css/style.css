@@ -209,11 +209,58 @@ footer {
         /* Push main content down */
         margin-top: 79px;
     }
+    /*-- Timeline section */
+    #first-child,
+    #second-child {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    #first-child > div,
+    #second-child > div {
+        width: 75%;
+    }
+
+    #second-child > div {
+        text-align: end;
+        align-self: flex-end;
+    }
+
+
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover{
         border-bottom: 1px solid white;
+    }
+}
+
+@media screen {
+    /* Timeline section */
+    #timeline {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #timeline > div {
+        flex: 1;
+    }
+
+    #timeline-logo {
+        order: 0;
+    }
+
+    #second-child {
+        order: 1;
+    }
+
+    #second-child > div {
+        align-self: flex-start;
+    }
+
+    #first-child > div {
+        align-self: flex-end;
     }
 }
