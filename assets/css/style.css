@@ -173,6 +173,13 @@ footer {
     padding: 5%;
     color: white;
 }
+/*-- media querry for large phones (576px and up) */
+@media screen and (min-width: 576px){
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 /* Media query: tablets and larger screens (768px and above) */
 @media screen and (min-width: 768px) {
@@ -228,6 +235,11 @@ footer {
         align-self: flex-end;
     }
 
+    /*-- gallery */
+    #photos {
+        column-count: 3;
+    }
+
 
 
 }
@@ -238,6 +250,11 @@ footer {
     #menu a:hover{
         border-bottom: 1px solid white;
     }
+    /*--gallery */
+    #photos {
+        column-count: 4;
+    }
+
 }
 
 @media screen and (min-width: 1200px) {
