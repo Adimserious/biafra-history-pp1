@@ -93,6 +93,7 @@ main {
     display: flex;
     flex-direction: column;
 }
+
 /* Form */
 #signup {
     background-image: url(..assets/images/bulb.png);
@@ -140,7 +141,7 @@ main {
 }
 /*-- Coat of arm section, image changed! */
 #coat-of-arm {
-    height: 1400px;
+    height: 600px;
     width: 100%;
     background: url("/assets/images/first-rising-sun.png") no-repeat center center/cover;
     position: relative;
@@ -222,6 +223,8 @@ footer {
     padding: 5%;
     color: white;
 }
+
+
 /*-- media querry for large phones (576px and up) */
 @media screen and (min-width: 576px){
     #photos {
