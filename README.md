@@ -5,12 +5,24 @@ The Biafran History is a site that hopes to help people learn about the history 
 
 [View the Biafra-history project here](https://adimserious.github.io/biafra-history-pp1/index.html)
 
-- Footer
+- Section-two, the Biafran anthem
+- - This section shows the lyrics of the biafra anthem.
+- - It shows an audio of the anthen to compliment the lyrics.
 
+![the biafra nation anthem image](/assets/images/anthem-image.webp)
+
+- Footer
 - - Links to the social media will open in a new tab to allow easy navigation for the user.
 - - It is valuable to the user as it gives them an easy contact option via social media.
 
 ![footer image](/assets/images/footer-image.webp)
+
+- The Sign Up page
+- - This page describes in clear details the actions that a user will take.
+- - It allow users to choose a package, sign up for it, in oder to gets updates on the latest news on Biafra .
+- - The user can choose a daily, weekly or monthly plan to sign up for.
+
+![signup-page-image](/assets/images/signup-page-image.webp)
 # Table of Contents
 ## User Experience 
 - ####  User Stories
