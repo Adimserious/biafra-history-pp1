@@ -5,47 +5,6 @@ The Biafran History is a site that hopes to help people learn about the history 
 
 [View the Biafra-history project here](https://adimserious.github.io/biafra-history-pp1/index.html)
 
-Section-one
-- - This section shows a background image which describes the land of Baifra
-- - Biafra land symbolise a raising sun.
-![background image](/assets/images/background-image.jpg)
-
-Section-two
-- - this section shows extensive description of sources to the rich history of biafra
-- - it has links that opens on separate tabs showing vidoes and different resources.
-![Biafran chronicles](/assets/images/chronicles.webp)
-
-Section-three
-
-- -  This section shows the image of the biafran flage.
-- - This image is arranged differently according to screen sizes.
-![Biafran flag](/assets/images/flage-image.webp)
-
-Section-four, the Biafran anthem
-- - This section shows the lyrics of the biafra anthem.
-- - It shows an audio of the anthen to compliment the lyrics.
-
-![the biafra nation anthem image](/assets/images/anthem-image.webp)
-
-Footer
-- - Links to the social media will open in a new tab to allow easy navigation for the user.
-- - It is valuable to the user as it gives them an easy contact option via social media.
-
-![footer image](/assets/images/footer-image.webp)
-
-Gallery 
-
-- The gallery provides the user with supporting images of the biafran war.
-- This includes images of past and present leaders, biafran money and events of the biafran war.
-![gallery photos](/assets/images/gallery-image.webp)
-
- 
-Sign Up page
-- - This page describes in clear details the actions that a user will take.
-- - It allow users to choose a package, sign up for it, in oder to gets updates on the latest news on Biafra .
-- - The user can choose a daily, weekly or monthly plan to sign up for.
-
-![signup-page-image](/assets/images/signup-page-image.webp)
 # Table of Contents
 ## User Experience 
 - ####  User Stories
@@ -99,11 +58,50 @@ there is clear navigation and a form set up on the sign-up page to stay updated 
 - - Feautured on all three pages, which includes links to the Home Page, Gallery and sign up pages with full responsive navigation and is the same through out the pages for easy navigation.
 
 - - This section allows user to navigate easily from one page to the other across all devices without needing to go back to the previous page using the back button.
-### Main heading
-#Gallery 
+![header with navigation bar](/assets/images/header-image.webp)
+Section-one
+- - This section shows a background image which describes the land of Baifra
+- - Biafra land symbolise a raising sun.
+![background image](/assets/images/background-image.jpg)
 
-Wireframes
+Section-two
+- - this section shows extensive description of sources to the rich history of biafra
+- - it has links that opens on separate tabs showing vidoes and different resources.
+![Biafran chronicles](/assets/images/chronicles.webp)
 
+Section-three
+
+- -  This section shows the image of the biafran flage.
+- - This image is arranged differently according to screen sizes.
+![Biafran flag](/assets/images/flage-image.webp)
+
+Section-four, the Biafran anthem
+- - This section shows the lyrics of the biafra anthem.
+- - It shows an audio of the anthen to compliment the lyrics.
+
+![the biafra nation anthem image](/assets/images/anthem-image.webp)
+
+Footer
+- - Links to the social media will open in a new tab to allow easy navigation for the user.
+- - It is valuable to the user as it gives them an easy contact option via social media.
+
+![footer image](/assets/images/footer-image.webp)
+
+Gallery 
+
+- The gallery provides the user with supporting images of the biafran war.
+- This includes images of past and present leaders, biafran money and events of the biafran war.
+![gallery photos](/assets/images/gallery-image.webp)
+
+ 
+Sign Up page
+- - This page describes in clear details the actions that a user will take.
+- - It allow users to choose a package, sign up for it, in oder to gets updates on the latest news on Biafra .
+- - The user can choose a daily, weekly or monthly plan to sign up for.
+
+![signup-page-image](/assets/images/signup-page-image.webp)
+
+## Wireframes
 - Pen and paper in a notebook: simple and effective.
 
 # Technologies Used
