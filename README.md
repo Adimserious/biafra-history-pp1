@@ -149,17 +149,7 @@ style.css
 
 - Dev Tools was used to test how the site looks on various screen sizes.
 # Lighthouse Report
-### Mobile analysisn
-Home Page
-Gallery
-Sign Up
-Application Received
-### Desktop analysis
-Home Page
-Gallery
-Sign Up
-Application Received
-
+![lighthouse analysis](/assets/images/lighthouse-analysis.webp).
 
 # Deployment and local development
 >GitHub Pages
