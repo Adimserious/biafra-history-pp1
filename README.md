@@ -104,24 +104,31 @@ Sign Up page
 ## Wireframes
 - Pen and paper in a notebook: simple and effective.
 
+# Features Left to Implement
+- Additional packages might be available in the form section.
+- Updated gallery with additional images.
+- In the future, there could be an online academy that will teach the history of Biafra, that could join through this website.
+
 # Technologies Used
 ### [HTML5](https://en.wikipedia.org/wiki/HTML5)
 ### [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 # Frameworks, Libraries & Programs Used
 ### [Gitpod](https://www.gitpod.io/)
->>To write the code.
+- To write the code.
 ### [Git](https://git-scm.com/)
->>for vesion control.
+- for vesion control.
 ### [Github](https://github.com/)
->>Deployment of the website and storing the files online.
+- Deployment of the website and storing the files online.
 ### [Google Fonts](https://fonts.google.com/)
->>Import main font the website.
+- Import main font the website.
 ### [Am I Responsive](https://ui.dev/amiresponsive)
->>Mockup picture for the README file.
+- Mockup picture for the README file.
 # Testing
 The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
->>[The W3C Markup Validator](https://validator.w3.org/)  
+
+[The W3C Markup Validator](https://validator.w3.org/) 
+
 [W3C CSS Validator](https://validator.w3.org)
 
 
