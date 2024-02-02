@@ -5,19 +5,42 @@ The Biafran History is a site that hopes to help people learn about the history 
 
 [View the Biafra-history project here](https://adimserious.github.io/biafra-history-pp1/index.html)
 
-- Section-two, the Biafran anthem
+Section-one
+- - This section shows a background image which describes the land of Baifra
+- - Biafra land symbolise a raising sun.
+![background image](/assets/images/background-image.jpg)
+
+Section-two
+- - this section shows extensive description of sources to the rich history of biafra
+- - it has links that opens on separate tabs showing vidoes and different resources.
+![Biafran chronicles](/assets/images/chronicles.webp)
+
+Section-three
+
+- -  This section shows the image of the biafran flage.
+- - This image is arranged differently according to screen sizes.
+![Biafran flag](/assets/images/flage-image.webp)
+
+Section-four, the Biafran anthem
 - - This section shows the lyrics of the biafra anthem.
 - - It shows an audio of the anthen to compliment the lyrics.
 
 ![the biafra nation anthem image](/assets/images/anthem-image.webp)
 
-- Footer
+Footer
 - - Links to the social media will open in a new tab to allow easy navigation for the user.
 - - It is valuable to the user as it gives them an easy contact option via social media.
 
 ![footer image](/assets/images/footer-image.webp)
 
-- The Sign Up page
+Gallery 
+
+- The gallery provides the user with supporting images of the biafran war.
+- This includes images of past and present leaders, biafran money and events of the biafran war.
+![gallery photos](/assets/images/gallery-image.webp)
+
+ 
+Sign Up page
 - - This page describes in clear details the actions that a user will take.
 - - It allow users to choose a package, sign up for it, in oder to gets updates on the latest news on Biafra .
 - - The user can choose a daily, weekly or monthly plan to sign up for.
