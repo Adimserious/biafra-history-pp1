@@ -11,7 +11,6 @@ The Biafran History is a site that hopes to help people learn about the history 
 ## Features
 - #### Existing Features
 ## Features Left to Implement
-## Design
 ## Technologies Used
 ## Frameworks, Libraries & Programs Used
 ## Testing
