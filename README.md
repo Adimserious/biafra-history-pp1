@@ -133,11 +133,10 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 
 # Validation results
-index.html
-gallery.html
-sign-up.html
-form-received.htmml
+signup.html
+![validation result](/assets/images/validation-signup.webp)
 style.css
+![css validation result](/assets/images/css%20validator.webp)
 # Manual Testing
 - The website was tested on Google Chrome, Microsoft Edge, and Opera browsers.
 
