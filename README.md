@@ -1,6 +1,7 @@
 # The Biafran History
 The Biafran History is a site that hopes to help people learn about the history of Biafra, the event that took place during the war, Timeline, key events, and leadership. The inspiration for this website came from the little to no Teachings of the History of  Biafra in the educationals sectors especially for people who came from this linage.
-! [homepage image](..images/homepage-image.webp)
+
+![homepage image](..images/homepage-image.webp)
 
 [View the Biafra-history project here](https://adimserious.github.io/biafra-history-pp1/index.html)
 # Table of Contents
