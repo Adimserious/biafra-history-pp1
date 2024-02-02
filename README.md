@@ -1,5 +1,7 @@
 # The Biafran History
 The Biafran History is a site that hopes to help people learn about the history of Biafra, the event that took place during the war, Timeline, key events, and leadership. The inspiration for this website came from the little to no Teachings of the History of  Biafra in the educationals sectors especially for people who came from this linage.
+! [homepage image](..images/homepage-image.webp)
+
 [View the Biafra-history project here](https://adimserious.github.io/biafra-history-pp1/index.html)
 # Table of Contents
 ## User Experience 
@@ -64,6 +66,7 @@ Wireframes
 # Technologies Used
 ### [HTML5](https://en.wikipedia.org/wiki/HTML5)
 ### [CSS3](https://en.wikipedia.org/wiki/CSS)
+
 # Frameworks, Libraries & Programs Used
 ### [Gitpod](https://www.gitpod.io/)
 >>To write the code.
@@ -88,15 +91,15 @@ sign-up.html
 form-received.htmml
 style.css
 # Manual Testing
->>The website was tested on Google Chrome, Microsoft Edge, and Opera browsers.
+- The website was tested on Google Chrome, Microsoft Edge, and Opera browsers.
 
->>The website was viewed on a desktop computer, laptop, and Samsung Galaxy A52 mobile phone.
+-  The website was viewed on a desktop computer, laptop, and Samsung Galaxy A52 mobile phone.
 
->>A large amount of testing was done to ensure links between pages are working correctly on all pages.
+- A large amount of testing was done to ensure links between pages are working correctly on all pages.
 
->>Family and friends were asked to review the website for a better understanding of the user experience.
+- Family and friends were asked to review the website for a better understanding of the user experience.
 
->>Dev Tools was used to test how the site looks on various screen sizes.
+- Dev Tools was used to test how the site looks on various screen sizes.
 # Lighthouse Report
 ### Mobile analysisn
 Home Page
@@ -138,18 +141,18 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 # Credits
 ## Code
->>Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
->>The README template was helpfully provided by my mentor Mitko Bachvarov  [(template)](https://github.com/Thomas-Tomo/Lunar-Escape)
+- The README template was helpfully provided by my mentor Mitko Bachvarov  [(template)](https://github.com/Thomas-Tomo/Lunar-Escape)
 ## Content
->>All content was written by the developer.
->>The Color contrast used for this website was inspired by the [biafran flag](https://en.wikipedia.org/wiki/Flag_of_Biafra#:~:text=The%20flag%20of%20Biafra%2C%20used,sun%20over%20a%20golden%20bar.) colors.
+- All content was written by the developer.
+- The Color contrast used for this website was inspired by the [biafran flag](https://en.wikipedia.org/wiki/Flag_of_Biafra#:~:text=The%20flag%20of%20Biafra%2C%20used,sun%20over%20a%20golden%20bar.) colors.
 ## Media
->>[Pexels](https://www.pexels.com/) free stock photos, royalty free images.
->>[Pixabay](https://pixabay.com/) free stock photos, royalty free images.
->>Canva to Resizing images.
+[Pexels](https://www.pexels.com/) free stock photos, royalty free images.
+[Pixabay](https://pixabay.com/) free stock photos, royalty free images.
+Canva to Resize images.
 
 # Acknowledgements
->>My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
->>Slack community for encouragement and information.
->>my friend Elijah Toochukwu David for being a great support 
+My mentor Mitko Bachvarov provided helpful feedback and a link to the Flexbox guide.
+Slack community for encouragement and information.
+my friend Elijah Toochukwu David for being a great support 
