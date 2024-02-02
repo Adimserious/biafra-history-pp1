@@ -3,21 +3,21 @@ The Biafran History is a site that hopes to help people learn about the history 
 [View the Biafra-history project here](https://adimserious.github.io/biafra-history-pp1/index.html)
 # Table of Contents
 ## User Experience 
->#### User Stories
+- ####  User Stories
 ## Features
->#### Existing Features
+- #### Existing Features
 ## Features Left to Implement
 ## Design
 ## Technologies Used
 ## Frameworks, Libraries & Programs Used
 ## Testing
->#### Validation Results
->#### Manual Testing
->#### Lighthouse Report
+- #### Validation Results
+- #### Manual Testing
+- #### Lighthouse Report
 ## Deployment and local development
->#### GitHub Pages
->#### Forking the GitHub Repository
->#### Local Clone
+- ####  GitHub Pages
+- ####  Forking the GitHub Repository
+- ####  Local Clone
 ## Credits
 ## Acknowledgements
 
@@ -25,39 +25,42 @@ The Biafran History is a site that hopes to help people learn about the history 
 this website is meant to attract people who wishes to learn about the rich history the of Biafra land.
 there is clear navigation and a form set up on the sign-up page to stay updated with the latest happening.
 ## User Stories
->### First-time visitor goals
+- ### First-time visitor goals
 
->>Understand the main purpose of the site and learn more about the history of Biafra.
+- - Understand the main purpose of the site and learn more about the history of Biafra.
 
->>Easily navigate throughout the site.
+- - Easily navigate throughout the site.
 
->>Find the Sign Up form and fill it out.
+- - Find the Sign Up form and fill it out.
 
->### Returning visitor goals
+### Returning visitor goals
 
->>Find out information about the History.
+- Find out information about the History.
 
->>Locate contact information.
+- Locate contact information.
 
->>Review the site's extensive gallery.
+- Review the site's extensive gallery.
 
->### Frequent user goals
+### Frequent user goals
 
->>Check if there are any new information to get updated with in the sign-up form.
+- Check if there are any new information to get updated with in the sign-up form.
 
->>Review the gallery for any new photos
+- Review the gallery for any new photos
 
 # Features
 
-> ## Exiting Features
->### Navigation bar
->>Feautured on all three pages, which includes links to the Home Page, Gallery and sign up pages with full responsive navigation and is the same through out the pages for easy navigation.
+- ## Exiting Features
+- ### Navigation bar
+- - Feautured on all three pages, which includes links to the Home Page, Gallery and sign up pages with full responsive navigation and is the same through out the pages for easy navigation.
 
->>This section allows user to navigate easily from one page to the other across all devices without needing to go back to the previous page using the back button.
+- - This section allows user to navigate easily from one page to the other across all devices without needing to go back to the previous page using the back button.
 ### Main heading
 #Gallery 
 
-![screenshot of the gallery page](https://adimserious.github.io/biafra-history-pp1/gallery.html)
+Wireframes
+
+- Pen and paper in a notebook: simple and effective.
+
 # Technologies Used
 ### [HTML5](https://en.wikipedia.org/wiki/HTML5)
 ### [CSS3](https://en.wikipedia.org/wiki/CSS)
