@@ -165,6 +165,10 @@ main {
     padding: 0 20px;
 }
 
+a {
+    color: white;
+}
+
 #timeline hr {
     border-top: 1px solid white;
     margin: 5px 0;
